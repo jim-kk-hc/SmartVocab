@@ -1,0 +1,7 @@
+{
+  "description": "Smart vocabulary learning app powered by Gemini, featuring automatic translation, example generation, and TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "SmartVocab"
+}
